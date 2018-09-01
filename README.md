@@ -58,7 +58,7 @@ To quickly access an image do use the URL http://thediamondpicks.github.io/sky-l
   * [SKY Sport Pop-Up 2 (056)](https://thediamondpicks.github.io/sky-light-channel-images/056.png)
   * [SKY Sport Pop-Up 3 (057)](https://thediamondpicks.github.io/sky-light-channel-images/057.png)
   * [SKY Sport Pop-Up 4 (058)](https://thediamondpicks.github.io/sky-light-channel-images/058.png)
-  * [TVNZ GamesExtra (059)](https://thediamondpicks.github.io/sky-light-channel-images/059.png)
+  * [GINX Esports Pop Up (059)](https://thediamondpicks.github.io/sky-light-channel-images/059.png)
   * [ESPN (060)](https://thediamondpicks.github.io/sky-light-channel-images/060.png)
   * [ESPN 2 (061)](https://thediamondpicks.github.io/sky-light-channel-images/061.png)
   * [Trackside 1 (062)](https://thediamondpicks.github.io/sky-light-channel-images/062.png)
