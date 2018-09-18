@@ -114,6 +114,7 @@ To quickly access an image do use the URL http://thediamondpicks.github.io/sky-l
   * [beIN SPORTS Pop-Up 1 (268)](https://thediamondpicks.github.io/sky-light-channel-images/268.png)
   * [beIN SPORTS Pop-Up 2 (269)](https://thediamondpicks.github.io/sky-light-channel-images/269.png)
   * [beIN SPORTS Pop-Up 3 (270)](https://thediamondpicks.github.io/sky-light-channel-images/270.png)
+  * [Vive Pop-Up (306)](https://thediamondpicks.github.io/sky-light-channel-images/306.png)
   * [CGTN (310)](https://thediamondpicks.github.io/sky-light-channel-images/310.png)
   * [Real Good Life Chinese Radio (311)](https://thediamondpicks.github.io/sky-light-channel-images/311.png)
   * [New Supreme Chinese Radio (312)](https://thediamondpicks.github.io/sky-light-channel-images/312.png)
