@@ -105,7 +105,6 @@ To quickly access an image do use the URL http://thediamondpicks.github.io/sky-l
   * [Firstlight (206)](https://thediamondpicks.github.io/sky-light-channel-images/206.png)
   * [Jones! Too (208)](https://thediamondpicks.github.io/sky-light-channel-images/208.png)
   * [SoHo2 (210)](https://thediamondpicks.github.io/sky-light-channel-images/210.png)
-  * [SKY Sport Pop-Up 5 (259)](https://thediamondpicks.github.io/sky-light-channel-images/259.png)
   * [SKY Sport Pop-Up 6 (260)](https://thediamondpicks.github.io/sky-light-channel-images/260.png)
   * [Rugby Pop Up 1 (264)](https://thediamondpicks.github.io/sky-light-channel-images/264.png)
   * [Rugby Pop Up 2 (265)](https://thediamondpicks.github.io/sky-light-channel-images/265.png)
